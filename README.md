@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hussain-111
-- Click to see my portfolio https://hussain-111.github.io/hussain.portfolio/
+- Click to see my portfolio https://hussain-111.github.io/updatedportfolio/
 - click to see my Linkedin www.linkedin.com/in/shaik-hussain177
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
